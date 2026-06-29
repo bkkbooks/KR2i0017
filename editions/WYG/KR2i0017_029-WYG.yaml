@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR2i0017/WYG/v1/juan/29
+seq: 29
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 馬氏南唐書
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-09-11 23:44:30.642329'
+  source:
+    repository: kanripo
+    path: KR2i0017/KR2i0017_029.txt
+hash: sha256:5abfbcad83ee8974b11d3c9917e9c0557cfc4a900e82365166b759d1359a49a7

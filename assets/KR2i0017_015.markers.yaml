@@ -538,6 +538,7 @@ markers:
   - {type: line-break, offset: 1450, content: '', id: KR2i0017_SBCK_015-4b07}
   - {type: variant, offset: 1457, length: 1, content: 吳, WYG: 呉}
   - {type: punctuation, offset: 1469, content: (, id: KR2i0017_krp_015-bkkpn1}
+  - {type: voice, offset: 1469, length: 8, name: note, id: n1}
   - {type: punctuation, offset: 1470, content: /, id: KR2i0017_krp_015-bkkpn2}
   - {type: punctuation, offset: 1471, content: ), id: KR2i0017_krp_015-bkkpn3}
   - {type: 'kr:newline', offset: 1471, content: '
@@ -907,4 +908,4 @@ markers:
 
       ', id: KR2i0017_krp_015-bkkkrnewl140}
   back: []
-hash: sha256:e9cd7a3d3920c6af1e4d2e20574e808c4be6922fe7f3d76dc2360140b9f6122f
+hash: sha256:f0c0b3d95e41078d5565898aae79ff5a087a9f94b5e693bc5bf469c1cdcbc3d4
